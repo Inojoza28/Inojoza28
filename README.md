@@ -101,7 +101,7 @@ Aqui estão algumas das linguagens, ferramentas e tecnologias que uso ou com as 
 <div align="center">
 
 ### Obrigado pela visita e sinta-se à vontade para explorar meus repositórios!  
-**Feito com ❤ e muita <img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="20"> em cada linha de código.**
+**Feito com ❤ e muita em cada linha de código.**
 
 </div>
 
