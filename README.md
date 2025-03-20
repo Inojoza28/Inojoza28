@@ -11,41 +11,50 @@
 
 ---
 
-## 🧑💻 Sobre Mim
-
-```diff
-+ 🎓 FORMAÇÃO ACADÊMICA & PROFISSIONAL
-```
-
-**Programação de Jogos Digitais**  
-`📆 2020–2022` | `🏫 ETE Cícero Dias`  
-→ **Stack:** Unity3D • C# • WebGL  
-→ **Foco:** Game Design • Level Building
-
-**Análise e Desenvolvimento de Sistemas**  
-`📆 2023–2025` | `🏛️ Uninassau`  
-→ **Foco:** Criação de soluções tecnológicas, aliando aspectos técnicos e gerenciais.
+## 🧑💻 **Sobre Mim**
 
 ---
 
-### 🎮 Vida Além do Código
+### 📚 **Formação & Competências Técnicas**
 
-<div align="center" style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
-  <div style="text-align: center;">
-    [![Speedcuber](https://img.shields.io/badge/-🧩_Speedcuber_WCA-6e5494?style=for-the-badge&logoColor=white)](#)
-    <br>
-    <small>Domínio de puzzles WCA (3x3 até Megaminx)</small>
-  </div>
-  <div style="text-align: center;">
-    [![Piano](https://img.shields.io/badge/-🎹_Pianista_Autodidata-00b4ab?style=for-the-badge)](#)
-    <br>
-    <small>Estudando música de forma autodidata desde 2022</small>
-  </div>
-  <div style="text-align: center;">
-    [![Praia](https://img.shields.io/badge/-🏖️_Praia-ffac45?style=for-the-badge)](#)
-    <br>
-    <small>Espaço de lazer e inspiração</small>
-  </div>
+<div align="left" style="line-height: 1.8;">
+
+**🎓 Técnico em Programação de Jogos Digitais**  
+`📍 ETE Cícero Dias` | `📅 2020-2022`  
+・ **Tech Stack**: Unity3D (C#), WebGL, Blender  
+・ **Especialização**: Design de Jogos 2D/3D e Prototipagem Ágil
+
+**🎓 Tecnólogo em Análise de Sistemas**  
+`📍 Uninassau` | `📅 2023-2025`  
+・ **Foco Técnico**: Arquitetura Front-End Moderna (React/Next.js)  
+・ **Gestão**: Metodologias Ágeis e UX Centrado no Usuário
+
+</div>
+
+---
+
+### 🌟 **Interesses Pessoais**
+
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1.5rem; padding: 1.2rem 0;">
+
+<div style="padding: 1rem; border-radius: 8px; background: #f8f9fa; border: 1px solid #eee;">
+  <img src="https://img.icons8.com/3d-fluency/48/rubiks-cube.png" width="40">  
+  **Speedcubing Profissional**  
+  <sub>Certificado WCA | 3x3 ao Megaminx</sub>
+</div>
+
+<div style="padding: 1rem; border-radius: 8px; background: #f8f9fa; border: 1px solid #eee;">
+  <img src="https://img.icons8.com/ios/50/music-transcript.png" width="40">  
+  **Prática Musical**  
+  <sub>Piano Clássico | Teoria Musical</sub>
+</div>
+
+<div style="padding: 1rem; border-radius: 8px; background: #f8f9fa; border: 1px solid #eee;">
+  <img src="https://img.icons8.com/ios/50/beach.png" width="40">  
+  **Equilíbrio Criativo**  
+  <sub>Surf & Mindfulness à Beira-Mar</sub>
+</div>
+
 </div>
 
 ---
