@@ -1,10 +1,10 @@
 
-# <div align="center">👋 Olá, eu sou Gabriel Inojoza <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></div>
+# <div align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Olá, eu sou Gabriel Inojoza</div>
 
 <div align="center">
   <!-- Animação de texto digitado (Typing SVG) -->
   <img 
-       src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&pause=1000&color=00F72F&center=true&vCenter=true&width=500&height=60&lines=🚀+Desenvolvedor+Front+End;💡+Entusiasta+de+Tecnologia;🌱+Sempre+aprendendo+coisas+novas!;🌟+Bem-vindo(a)+ao+meu+GitHub!" 
+       src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&pause=1000&color=b0bac0&center=true&vCenter=true&width=500&height=60&lines=🚀+Desenvolvedor+Front+End;💡+Entusiasta+de+Tecnologia;🌱+Sempre+aprendendo+coisas+novas!;🌟+Bem-vindo(a)+ao+meu+GitHub!" 
        alt="Typing animation"
   />
 </div>
