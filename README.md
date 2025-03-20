@@ -13,17 +13,11 @@
 
 ## 🧑💻 **Sobre Mim**  
 <div align="center">
-  <img src="https://i.imgur.com/2Xr9Nvw.gif" width="300" style="border: 3px solid #f0f0f0; border-radius: 12px;">  
+  <img src="https://i.imgur.com/3QJjwR5.png" width="280">
 </div>  
 
-### **Formação Acadêmica**  
-🎓 **Técnico em Programação de Jogos Digitais**  
-→ *ETEC: Centro Paula Souza (2020-2022)*  
-→ Foco: Unity, C#, Design de Gameplay  
-
-🎓 **Tecnólogo em Análise e Desenvolvimento de Sistemas**  
-→ *FATEC: conclusão em 2024*  
-→ Disciplinas-chave: Arquitetura de Software, DevOps, UX  
+**🎓 Formação**  
+Téc. Jogos Digitais (ETEC) | ADS (FATEC ’24)  
 
 ### **Vida Além do Código**  
 🧩 **Cubo Mágico:** Resolvo todos os puzzles da classificação WCA (3x3 ao 7x7)  
