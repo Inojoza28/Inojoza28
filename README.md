@@ -11,73 +11,17 @@
 
 ---
 
-## 🧑💻 **Sobre Mim** 
+## 🧑💻 **Sobre Mim**
 
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250">
 
-### 📚 **Formações**
-
-<div style="line-height: 1.8;">
-  
-**🎓 Técnico em Programação de Jogos Digitais**  
-`📍 ETE Cícero Dias` | `📅 2020-2022`  
-
-**🎓 Tecnólogo em Análise de Sistemas**  
-`📍 Uninassau` | `📅 2023-2025`  
-
-</div>
+- **Formação Técnica**: Técnico em Programação de Jogos Digitais.
+- **Formação Graduanda**: Graduando em Análise e Desenvolvimento de Sistemas  
+- **Experiência**: 2 anos desenvolvendo interfaces web responsivas, com foco em JS moderno.  
+- **Curiosidades**: Pianista Autodidata, Speedcuber e prainha no tempo livre.  
+- **Objetivos**: Aperfeiçoar continuamente minhas habilidades e compartilhar conhecimento com a comunidade.
 
 ---
-
-### 🌟 **Interesses Pessoais**
-
-<div style="
-  display: flex;
-  flex-wrap: wrap;
-  gap: 1rem;
-  justify-content: flex-start;
-  padding: 1.2rem 0;
-">
-
-  <div style="
-    width: 200px;
-    padding: 1rem;
-    border-radius: 8px;
-    background: #ffffff;
-    border: 1px solid #eee;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.03);
-  ">
-    <img src="https://img.icons8.com/3d-fluency/48/rubiks-cube.png" width="40" style="margin-bottom: 0.5rem;">
-    <strong>Speedcubing Profissional</strong><br>
-    <sub style="color: #555;">3x3 ao Megaminx</sub>
-  </div>
-
-  <div style="
-    width: 200px;
-    padding: 1rem;
-    border-radius: 8px;
-    background: #ffffff;
-    border: 1px solid #eee;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.03);
-  ">
-    <img src="https://img.icons8.com/ios/50/music-transcript.png" width="40" style="margin-bottom: 0.5rem;">
-    <strong>Prática Musical</strong><br>
-    <sub style="color: #555;">Explorando música nas horas vagas</sub>
-  </div>
-
-  <div style="
-    width: 200px;
-    padding: 1rem;
-    border-radius: 8px;
-    background: #ffffff;
-    border: 1px solid #eee;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.03);
-  ">
-    <img src="https://img.icons8.com/ios/50/beach.png" width="40" style="margin-bottom: 0.5rem;">
-    <strong>Equilíbrio Criativo</strong><br>
-    <sub style="color: #555;">Momentos de lazer e inspiração</sub>
-  </div>
-
-</div>
 
 
 
