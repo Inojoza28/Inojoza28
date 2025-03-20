@@ -1,5 +1,5 @@
 
-# <div align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Olá, eu sou Gabriel Inojoza</div>
+# <div align="center"> Olá, eu sou Gabriel Inojoza <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></div>
 
 <div align="center">
   <!-- Animação de texto digitado (Typing SVG) -->
