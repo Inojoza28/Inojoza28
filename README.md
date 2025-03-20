@@ -15,24 +15,10 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250">
 
-```yaml
-🎓 Formação:
-  - Técnico em Programação de Jogos Digitais (PJD)
-  - Graduando em Análise e Desenvolvimento de Sistemas
-
-💼 Experiência:
-  - 2 anos desenvolvendo interfaces web responsivas
-  - Especialização em React.js e no ecossistema JS moderno
-
-⚡ Curiosidades:
-  - Violonista amador nas horas vagas 🎸
-  - Fã de jogos retrô e speedruns 🎮
-  - Adoro desvendar novas tecnologias e linguagens
-
-🚀 Objetivos:
-  - Aperfeiçoar cada vez mais minhas habilidades em UX/UI e performance
-  - Compartilhar conhecimento com a comunidade e colaborar em projetos de código aberto
-```
+- **Formação**: Técnico em Programação de Jogos Digitais, Graduando em Análise e Desenvolvimento de Sistemas.  
+- **Experiência**: 2 anos desenvolvendo interfaces web responsivas, com foco em React.js e JS moderno.  
+- **Curiosidades**: Violonista amador, fã de jogos retrô e speedruns.  
+- **Objetivos**: Aperfeiçoar continuamente minhas habilidades em UX/UI & performance e compartilhar conhecimento com a comunidade.
 
 ---
 
