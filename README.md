@@ -2,18 +2,12 @@
 
 <div align="center">
   
-  <!-- Caso não queira usar um banner, você pode remover a linha acima ou substituir por um GIF/imagem de sua preferência. -->
-  
 </div>
 
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7F7F7&width=435&lines=Seja+bem-vindo(a)+ao+meu+GitHub!;Desenvolvedor+Front+End;Entusiasta+de+Tecnologia;Sempre+aprendendo+coisas+novas)](https://git.io/typing-svg)
 
-<!-- 
-  O link acima utiliza o serviço readme-typing-svg para criar um texto "digitado" dinamicamente.
-  Você pode personalizar cor, tamanho, texto, velocidade etc. conforme desejar.
--->
 
 </div>
 
@@ -35,9 +29,6 @@
 Aqui estão algumas das linguagens, ferramentas e tecnologias que uso ou com as quais estou me aventurando:
 
 <div align="center">
-  
-  <!-- Exemplos de badges de linguagens e ferramentas mais populares.
-       Você pode alterar, remover ou adicionar conforme sua stack real. -->
        
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
@@ -57,10 +48,6 @@ Aqui estão algumas das linguagens, ferramentas e tecnologias que uso ou com as 
 
 <div align="center">
 
-<!-- 
-  Se desejar usar as estatísticas do GitHub, veja instruções: https://github.com/anuraghazra/github-readme-stats
-  Substitua SEU_USUARIO pelo seu nome de usuário do GitHub 
--->
 
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Inojoza28&show_icons=true&theme=dracula)](https://github.com/Inojoza28)
 
@@ -74,9 +61,8 @@ Aqui estão algumas das linguagens, ferramentas e tecnologias que uso ou com as 
 
 <div align="center">
 
-<!-- Edite os links abaixo com suas redes sociais e site pessoal. -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/SEU_USUARIO/)](https://www.linkedin.com/in/SEU_USUARIO/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielinojoza/)](https://www.linkedin.com/in/gabrielinojoza/) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/dev_inojoza)/)](https://www.instagram.com/dev_inojoza_/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carlosginojoza@gmail.com)](mailto:carlosginojoza@gmail.com)
 
