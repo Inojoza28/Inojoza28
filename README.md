@@ -14,40 +14,47 @@
 ## 🧑💻 Sobre Mim
 
 <div align="center">
-  <!-- Imagem minimalista atualizada (substitua o link se desejar outra imagem) -->
-  <img src="https://i.imgur.com/nX3XkGh.png" width="300" alt="Ilustração Minimalista" style="border: 2px solid #e0e0e0; border-radius: 10px;">
+  <!-- Imagem minimalista (substitua o link se desejar outra imagem) -->
+  <img 
+       src="https://i.imgur.com/nX3XkGh.png" 
+       width="300" 
+       alt="Ilustração Minimalista"
+       style="border: 2px solid #e0e0e0; border-radius: 10px;"
+  >
 </div>
 
 ### 🎓 Formação Técnica
 - **Técnico em Programação de Jogos Digitais**  
   *ETE - Cícero Dias (2020–2022)*  
-  C# | Unity | Desenvolvimento Web
+  **Foco**: C# | Unity | Desenvolvimento Web
 
 ### 🎓 Formação Acadêmica
 - **Tecnólogo em Análise e Desenvolvimento de Sistemas**  
-  *Uninassau - (2023-2025)*  
+  *Uninassau (2023–2025)*
 
 ---
 
 ### 🌟 Vida Além do Código
 <div align="center">
-  <table>
+  <table style="border: 0; border-collapse: collapse;">
     <tr>
-      <td align="center">
+      <td align="center" style="padding: 10px;">
         🧩 <strong>Speedcuber</strong><br>
-        Resolução de todos os cubos WCA (3x3 ao Megaminx)
+        Resolução de todos os cubos WCA<br>
+        (3x3 ao Megaminx)
       </td>
-      <td align="center">
+      <td align="center" style="padding: 10px;">
         🎹 <strong>Piano</strong><br>
         Tocando e explorando desde 2022
       </td>
-      <td align="center">
+      <td align="center" style="padding: 10px;">
         ⌨️ <strong>Coder por Paixão</strong><br>
         Projetos pessoais que facilitam o dia a dia
       </td>
     </tr>
   </table>
 </div>
+
 
 
 ## 🛠 **Tecnologias & Ferramentas**
