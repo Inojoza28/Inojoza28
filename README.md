@@ -13,41 +13,29 @@
 
 ## 🧑💻 **Sobre Mim**
 
-<div align="center">
-  <img src="https://i.imgur.com/nX3XkGh.png" width="280" style="border-radius:12px;box-shadow:0 4px 8px rgba(0,0,0,0.1);">
-</div>
-
+### 📚 **Formação**
 <div align="center">
 
-```diff
-+🎓 FORMAÇÃO TÉCNICA & ACADÊMICA
-```
-  
-![]() <!-- Espaçamento -->
-  
-▎ **Programação de Jogos Digitais**  
-`📆 2020-2022` | `🏫 ETE Cícero Dias`  
-→ **Stack:** Unity3D • C# • WebGL  
-→ **Foco:** Game Design • Level Building  
+▸ **Técnico em Programação de Jogos Digitais**  
+`🏫 ETE Cícero Dias` • `📅 2020-2022`  
+→ *Tech Stack:* Unity | C# | Web Basics  
 
-▎ **Análise e Desenvolvimento de Sistemas**  
-`📆 2023-2025` | `🏛️ Uninassau`  
-→ **Stack:** Front-End Moderno • DevOps Basics  
-→ **Foco:** Arquitetura de Software • UX  
+▸ **Tecnólogo em Análise de Sistemas**  
+`🏛️ Uninassau` • `📅 2023-2025`  
+→ *Foco:* Front-End Moderno | UX Principles  
 
 </div>
 
 ---
 
-### 🎮 **Vida Além do Código**
-<div align="center" style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
+### 🌴 **Vida Além do Código**
+<div align="center" style="display: flex; gap: 15px; flex-wrap: wrap; justify-content: center;">
 
-[![Cubos Mágicos](https://img.shields.io/badge/-🧩_Speedcuber_WCA-6e5494?style=for-the-badge&logoColor=white)]( "Domino todos os puzzles da WCA")
-[![Piano](https://img.shields.io/badge/-🎹_Pianista_Autodidata-00b4ab?style=for-the-badge)]( "Desde 2022")
-[![Projetos](https://img.shields.io/badge/-⌨️_Coder_Criativo-ffac45?style=for-the-badge)]( "Projetos que automatizam minha vida")
+[![Speedcubing](https://img.shields.io/badge/🧩‑Speedcuber_WCA-6e5494?style=flat-square&logoColor=white)]( "Certificado pela World Cube Association")  
+[![Piano](https://img.shields.io/badge/🎹‑Piano_Clássico-009688?style=flat-square)]( "Repertório: Clássico ao Contemporâneo")  
+[![Praia](https://img.shields.io/badge/🌊‑Vida_na_Praia-45B8FF?style=flat-square)]( "Surfista amador e colecionador de conchas")  
 
 </div>
----
 
 ## 🛠 **Tecnologias & Ferramentas**
 
