@@ -14,12 +14,12 @@
 ## 🧑💻 Sobre Mim
 
 <div align="center">
-  <!-- Imagem minimalista (substitua o link se desejar outra imagem) -->
+  <!-- Nova imagem minimalista (se preferir, substitua o link por outro) -->
   <img 
-       src="https://i.imgur.com/nX3XkGh.png" 
+       src="https://i.imgur.com/H7X7nCP.png" 
        width="300" 
        alt="Ilustração Minimalista"
-       style="border: 2px solid #e0e0e0; border-radius: 10px;"
+       style="border: 2px solid #ddd; border-radius: 10px; margin-bottom: 15px;"
   >
 </div>
 
@@ -55,7 +55,7 @@
   </table>
 </div>
 
-
+---
 
 ## 🛠 **Tecnologias & Ferramentas**
 
