@@ -74,7 +74,7 @@
 ![Visitors](https://komarev.com/ghpvc/?username=Inojoza28&color=blueviolet&style=flat)
 
 **⭐ Sinta-se à vontade para explorar meus repositórios e contribuir com ideias!**  
-**"O único modo de fazer um excelente trabalho é amar o que você faz" - Steve Jobs**
+**"A melhor maneira de prever o futuro é inventá-lo." -Alan Kay**
 
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="60">
 
