@@ -24,8 +24,7 @@
 
 **Análise e Desenvolvimento de Sistemas**  
 `📆 2023–2025` | `🏛️ Uninassau`  
-→ **Stack:** Front-End Moderno • DevOps Básico  
-→ **Foco:** Arquitetura de Software • UX  
+→ **Foco:** Desenvolvimento de soluções tecnológicas, integrando aspectos técnicos e de gestão. 
 
 ---
 
