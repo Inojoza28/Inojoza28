@@ -24,7 +24,7 @@
 
 **Análise e Desenvolvimento de Sistemas**  
 `📆 2023–2025` | `🏛️ Uninassau`  
-→ **Foco:** Desenvolvimento de soluções tecnológicas, integrando aspectos técnicos e de gestão.
+→ **Foco:** Criação de soluções tecnológicas, aliando aspectos técnicos e gerenciais.
 
 ---
 
@@ -34,17 +34,17 @@
   <div style="text-align: center;">
     [![Speedcuber](https://img.shields.io/badge/-🧩_Speedcuber_WCA-6e5494?style=for-the-badge&logoColor=white)](#)
     <br>
-    <small>Domino todos os puzzles da WCA (3x3 ao Megaminx)</small>
+    <small>Domínio de puzzles WCA (3x3 até Megaminx)</small>
   </div>
   <div style="text-align: center;">
     [![Piano](https://img.shields.io/badge/-🎹_Pianista_Autodidata-00b4ab?style=for-the-badge)](#)
     <br>
-    <small>Desde 2022, explorando música nas horas vagas</small>
+    <small>Estudando música de forma autodidata desde 2022</small>
   </div>
   <div style="text-align: center;">
     [![Praia](https://img.shields.io/badge/-🏖️_Praia-ffac45?style=for-the-badge)](#)
     <br>
-    <small>Momentos de lazer e inspiração</small>
+    <small>Espaço de lazer e inspiração</small>
   </div>
 </div>
 
