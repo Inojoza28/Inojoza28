@@ -1,95 +1,96 @@
-# <div align="center">Olá, eu sou Gabriel Inojoza <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></div>
+# <div align="center">👋 Olá, eu sou Gabriel Inojoza <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&pause=1000&color=00F72F&center=true&vCenter=true&width=500&height=60&lines=🚀+Desenvolvedor+Front+End;💡+Entusiasta+de+Tecnologia;🌱+Sempre+aprendendo+coisas+novas!;🌟+Bem-vindo(a)+ao+meu+GitHub!" alt="Typing animation">
+</div>
+
+---
+
+## 🧑💻 **Sobre Mim**
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250">
+
+```yaml
+🎓 Formação:
+  - Técnico em Programação de Jogos Digitais (PJD)
+  - Graduando em Análise e Desenvolvimento de Sistemas
+
+💼 Experiência:
+  - 2 anos desenvolvendo interfaces web responsivas
+  - Especialização em React.js e ecossistema moderno
+
+⚡ Curiosidade:
+  - Violonista amador nas horas vagas 🎸
+  - Fã de jogos retrô e speedruns 🎮
+
+🚀 Objetivo:
+  - Tornar-se referência em UX/UI e desenvolvimento performático
+  - Criar conteúdo técnico para a comunidade brasileira
+```
+
+---
+
+## 🛠 **Tecnologias & Ferramentas**
+
+### **Front-End Principal**
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Styled Components](https://img.shields.io/badge/-Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+
+### **Back-End & Outros**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### **Ferramentas**
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 📊 **Estatísticas do GitHub**
+
+<div align="center">
+  <a href="https://github.com/Inojoza28">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Inojoza28&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&border_radius=15"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inojoza28&layout=compact&theme=vision-friendly-dark&border_radius=15"/>
+  </a>
+</div>
+
+---
+
+## 🌐 **Conecte-se Comigo**
 
 <div align="center">
   
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7F7F7&width=435&lines=Seja+bem-vindo(a)+ao+meu+GitHub!;Desenvolvedor+Front+End;Entusiasta+de+Tecnologia;Sempre+aprendendo+coisas+novas)](https://git.io/typing-svg)
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielinojoza/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev_inojoza_/)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlosginojoza@gmail.com)
+[![Codepen](https://img.shields.io/badge/-CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/inojoza)
 
 </div>
 
 ---
-
-## <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="30"> Sobre Mim
-
-- 💻 Apaixonado por tecnologia e desenvolvimento Front-End
-- 🎓 **Formação Técnica**: PJD (Programação de Jogos Digitais)
-- 🎓 **Graduação Técnologa**: Análise e Desenvolvimento de Sistemas
-- ⚡ **Curiosidade**: [Insira uma curiosidade sobre você, pode ser um hobby ou interesse inusitado].
-- 💼 **Trabalho atual**: [Descreva brevemente onde trabalha ou em que tipo de projeto está envolvido].
-- 🎯 **Objetivo**: Tornar-me referência no mundo Tech e compartilhar conhecimento com a comunidade.
-
----
-
-## <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="40"> Tecnologias & Ferramentas
-
-Aqui estão algumas das linguagens, ferramentas e tecnologias que uso ou com as quais estou me aventurando:
-
-<div align="center">
-       
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
-
-</div>
-
----
-
-## <img src="https://media.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif" width="35"> Estatísticas do GitHub
-
-<div align="center">
-
-
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Inojoza28&show_icons=true&theme=dracula)](https://github.com/Inojoza28)
-
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Inojoza28&layout=compact&theme=dracula)](https://github.com/Inojoza28)
-
-</div>
-
----
-
-## <img src="https://media.giphy.com/media/l3nWhI38IWDofyDrW/giphy.gif" width="35"> Conecte-se Comigo
-
-<div align="center">
-
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielinojoza/)](https://www.linkedin.com/in/gabrielinojoza/) 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/dev_inojoza)/)](https://www.instagram.com/dev_inojoza_/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carlosginojoza@gmail.com)](mailto:carlosginojoza@gmail.com)
-
-</div>
-
----
-
-## <img src="https://media.giphy.com/media/D63OpRPzU3NYTxWfP3/giphy.gif" width="40"> Contador de Visitas
 
 <div align="center">
   
-  <!-- 
-      O Badge abaixo usa o serviço "Visitor Badge".
-      Substitua SEU_USUARIO ou repositório de destino no link conforme desejar.
-  -->
+![Snake animation](https://github.com/Inojoza28/Inojoza28/blob/output/github-contribution-grid-snake.svg)
   
-  ![Visitas](https://visitor-badge.laobi.icu/badge?page_id=Inojoza28)
-
 </div>
 
 ---
 
 <div align="center">
-
-### Obrigado pela visita e sinta-se à vontade para explorar meus repositórios!  
-**Feito com ❤ e muita em cada linha de código.**
-
+  
+  ![Visitors](https://komarev.com/ghpvc/?username=Inojoza28&color=blueviolet&style=flat)
+  
+  **⭐ Sinta-se à vontade para explorar meus repositórios e contribuir com ideias!**  
+  **"O único modo de fazer um excelente trabalho é amar o que você faz" - Steve Jobs**
+  
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="60">
+  
 </div>
-
----  
+```
