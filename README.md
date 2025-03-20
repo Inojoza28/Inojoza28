@@ -1,8 +1,4 @@
-A seguir, você encontrará um modelo de README detalhado (em português) que pode ser usado como referência para o seu perfil ou repositório no GitHub. Ele inclui seções personalizáveis, exemplos de animações (GIFs), badges, contadores de visitas, estatísticas e outras informações importantes. Sinta-se à vontade para adaptar o texto, links e imagens conforme sua preferência:
-
----
-
-# <div align="center">Olá, eu sou [SEU NOME/USUÁRIO] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></div>
+# <div align="center">Olá, eu sou Gabriel Inojoza <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></div>
 
 <div align="center">
   
@@ -132,5 +128,3 @@ Aqui estão algumas das linguagens, ferramentas e tecnologias que uso ou com as 
 </div>
 
 ---  
-
-**Observação**: Você pode remover, adicionar ou adaptar seções conforme suas necessidades. O importante é que o README reflita quem você é, o que você faz e o que deseja apresentar para a comunidade. Boas criações!
