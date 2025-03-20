@@ -11,12 +11,13 @@
 
 ---
 
-## 🧑💻 **Sobre Mim**
+## 🧑💻 **Sobre Mim** 
 
+---
 
 ### 📚 **Formações**
 
-<div align="left" style="line-height: 1.8;">
+<div style="line-height: 1.8;">
   
 **🎓 Técnico em Programação de Jogos Digitais**  
 `📍 ETE Cícero Dias` | `📅 2020-2022`  
@@ -30,59 +31,55 @@
 
 ### 🌟 **Interesses Pessoais**
 
-<div align="center" style="
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  gap: 1.5rem;
+<div style="
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: flex-start;
   padding: 1.2rem 0;
-  ">
-  
+">
+
   <div style="
-    padding: 1.2rem;
+    width: 200px;
+    padding: 1rem;
     border-radius: 8px;
     background: #ffffff;
     border: 1px solid #eee;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.03);
-    transition: box-shadow 0.3s ease;
   ">
     <img src="https://img.icons8.com/3d-fluency/48/rubiks-cube.png" width="40" style="margin-bottom: 0.5rem;">
-    <strong>Speedcubing Profissional</strong>
-    <sub style="display: block; margin-top: 0.25rem; color: #555;">
-      Certificado WCA | 3x3 ao Megaminx
-    </sub>
+    <strong>Speedcubing Profissional</strong><br>
+    <sub style="color: #555;">Certificado WCA | 3x3 ao Megaminx</sub>
   </div>
 
   <div style="
-    padding: 1.2rem;
+    width: 200px;
+    padding: 1rem;
     border-radius: 8px;
     background: #ffffff;
     border: 1px solid #eee;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.03);
-    transition: box-shadow 0.3s ease;
   ">
     <img src="https://img.icons8.com/ios/50/music-transcript.png" width="40" style="margin-bottom: 0.5rem;">
-    <strong>Prática Musical</strong>
-    <sub style="display: block; margin-top: 0.25rem; color: #555;">
-      Piano Clássico | Teoria Musical
-    </sub>
+    <strong>Prática Musical</strong><br>
+    <sub style="color: #555;">Piano Clássico | Teoria Musical</sub>
   </div>
 
   <div style="
-    padding: 1.2rem;
+    width: 200px;
+    padding: 1rem;
     border-radius: 8px;
     background: #ffffff;
     border: 1px solid #eee;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.03);
-    transition: box-shadow 0.3s ease;
   ">
     <img src="https://img.icons8.com/ios/50/beach.png" width="40" style="margin-bottom: 0.5rem;">
-    <strong>Equilíbrio Criativo</strong>
-    <sub style="display: block; margin-top: 0.25rem; color: #555;">
-      Surf & Mindfulness à Beira-Mar
-    </sub>
+    <strong>Equilíbrio Criativo</strong><br>
+    <sub style="color: #555;">Surf & Mindfulness à Beira-Mar</sub>
   </div>
 
 </div>
+
 
 
 ---
