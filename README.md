@@ -13,18 +13,19 @@
 
 ## 🧑💻 **Sobre Mim**  
 <div align="center">  
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250">  
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="280" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15)">  
 </div>  
 
-### **Minha Jornada**  
-🚀 Desenvolvedor Front-End com **2+ anos** criando interfaces ágeis em React.js  
-🎓 Formado em **Programação de Jogos Digitais** | Graduando em **Análise e Desenvolvimento de Sistemas**  
-✨ Foco em **UX/UI intuitivo**, performance e código limpo  
+### **Trajetória**  
+💻 **Front-End Specialist**  
+→ React.js | TypeScript | Web Performance  
+📚 **Formação Técnica + ADS** (Cursando)  
+✨ **Foco Atual:** Design Systems & Acessibilidade  
 
-### **Além do Código**  
-🎮 Speedrunner de jogos retrô nas horas vagas  
-🎸 Violonista amador (e orgulhoso de *Wonderwall*)  
-🌱 Aprendizado contínuo e **compartilhamento com a comunidade**  
+### **Vida Além do Código**  
+🎧 **Música:** Do clássico ao rock – sempre com violão  
+👾 **Retrogaming:** Coleciono cartuchos de SNES  
+🧠 **Mindset:** "Código é arte, e arte deve ser compartilhada"  
 
 ---
 
