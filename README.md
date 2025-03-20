@@ -15,14 +15,11 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250">
 
-- **Formação Técnica**: Técnico em Programação de Jogos Digitais.
-- **Formação Graduanda**: Graduando em Análise e Desenvolvimento de Sistemas  
-- **Experiência**: 2 anos desenvolvendo interfaces web responsivas, com foco em JS moderno.  
-- **Curiosidades**: Pianista Autodidata, Speedcuber e prainha no tempo livre.  
-- **Objetivos**: Aperfeiçoar continuamente minhas habilidades e compartilhar conhecimento com a comunidade.
-
----
-
+- **🎓 Formação Técnica:** Técnico em Programação de Jogos Digitais.
+- **🎓 Formação Graduanda:** Graduando em Análise e Desenvolvimento de Sistemas.
+- **💼 Experiência:** 2 anos desenvolvendo interfaces web responsivas, com foco em JavaScript moderno.
+- **🌟 Curiosidades:** Pianista autodidata, speedcuber e prainha no tempo livre.
+- **🚀 Objetivos:** Aperfeiçoar continuamente minhas habilidades e compartilhar conhecimento com a comunidade.
 
 
 ---
