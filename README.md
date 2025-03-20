@@ -21,11 +21,12 @@
 
 ## <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="30"> Sobre Mim
 
-- 🌱 **Atualmente estou estudando**: [Tecnologias de Interesse] – (HTML, CSS, JavaScript, React, Node.js, Python, etc.)
-- 👯 **Procuro colaborar**: em projetos de código aberto e iniciativas que promovam aprendizado colaborativo.
+- 💻 Apaixonado por tecnologia e desenvolvimento Front-End
+- 🎓 **Formação Técnica**: PJD (Programação de Jogos Digitais)
+- 🎓 **Graduação Técnologa**: Análise e Desenvolvimento de Sistemas
 - ⚡ **Curiosidade**: [Insira uma curiosidade sobre você, pode ser um hobby ou interesse inusitado].
 - 💼 **Trabalho atual**: [Descreva brevemente onde trabalha ou em que tipo de projeto está envolvido].
-- 🎯 **Objetivo**: Tornar-me referência em [área/tecnologia] e compartilhar conhecimento com a comunidade.
+- 🎯 **Objetivo**: Tornar-me referência no mundo Tech e compartilhar conhecimento com a comunidade.
 
 ---
 
