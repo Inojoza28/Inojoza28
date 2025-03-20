@@ -2,8 +2,6 @@
 
 <div align="center">
   
-  ![Banner Animado ou Logo Personalizado](https://user-images.githubusercontent.com/SEU-BANNER.png)
-  
   <!-- Caso não queira usar um banner, você pode remover a linha acima ou substituir por um GIF/imagem de sua preferência. -->
   
 </div>
