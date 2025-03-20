@@ -1,4 +1,4 @@
-# <div align="center">Olá, eu sou [SEU NOME/USUÁRIO] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></div>
+# <div align="center">Olá, eu sou Gabriel Inojoza <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></div>
 
 <div align="center">
   
@@ -10,7 +10,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7F7F7&width=435&lines=Seja+bem-vindo(a)+ao+meu+GitHub!;Desenvolvedor+Full+Stack;Entusiasta+de+Tecnologia;Sempre+aprendendo+coisas+novas)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7F7F7&width=435&lines=Seja+bem-vindo(a)+ao+meu+GitHub!;Desenvolvedor+Front+End;Entusiasta+de+Tecnologia;Sempre+aprendendo+coisas+novas)](https://git.io/typing-svg)
 
 <!-- 
   O link acima utiliza o serviço readme-typing-svg para criar um texto "digitado" dinamicamente.
@@ -78,9 +78,8 @@ Aqui estão algumas das linguagens, ferramentas e tecnologias que uso ou com as 
 <!-- Edite os links abaixo com suas redes sociais e site pessoal. -->
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/SEU_USUARIO/)](https://www.linkedin.com/in/SEU_USUARIO/) 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/SEU_USUARIO)](https://twitter.com/SEU_USUARIO)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/SEU_USUARIO/)](https://www.instagram.com/SEU_USUARIO/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU_EMAIL)](mailto:SEU_EMAIL)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/dev_inojoza)/)](https://www.instagram.com/dev_inojoza_/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carlosginojoza@gmail.com)](mailto:carlosginojoza@gmail.com)
 
 </div>
 
@@ -95,7 +94,7 @@ Aqui estão algumas das linguagens, ferramentas e tecnologias que uso ou com as 
       Substitua SEU_USUARIO ou repositório de destino no link conforme desejar.
   -->
   
-  ![Contador de Visitas](https://visitor-badge.laobi.icu/badge?page_id=SEU_USUARIO.SEU_REPOSITORIO)
+  ![Contador de Visitas](https://visitor-badge.laobi.icu/badge?page_id=Inojoza28.SEU_REPOSITORIO)
 
 </div>
 
