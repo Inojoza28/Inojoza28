@@ -77,7 +77,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielinojoza/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev_inojoza_/)
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlosginojoza@gmail.com)
-[![Hub de Conexões](https://img.shields.io/badge/-Hub_de_Conexões-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Inojoza28/hub-de-conexoes)
+[![Hub de Conexões](https://img.shields.io/badge/-Hub_de_Conexões-24292e?style=for-the-badge&logo=github&logoColor=white)](https://inojoza28.github.io/conexoes)
   
 </div>
 
