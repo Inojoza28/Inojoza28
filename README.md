@@ -93,7 +93,7 @@ Aqui estão algumas das linguagens, ferramentas e tecnologias que uso ou com as 
       Substitua SEU_USUARIO ou repositório de destino no link conforme desejar.
   -->
   
-  ![Contador de Visitas](https://visitor-badge.laobi.icu/badge?page_id=Inojoza28)
+  ![Visitas](https://visitor-badge.laobi.icu/badge?page_id=Inojoza28)
 
 </div>
 
