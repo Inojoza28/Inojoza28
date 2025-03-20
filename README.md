@@ -11,31 +11,31 @@
 
 ---
 
-## 🧑💻 **Sobre Mim**
+## 🧑💻 Sobre Mim
 
 ```diff
 + 🎓 FORMAÇÃO TÉCNICA & ACADÊMICA
 ```
   
-- **Programação de Jogos Digitais**  
-  `📆 2020–2022` | `🏫 ETE Cícero Dias`  
-  → **Stack:** Unity3D • C# • WebGL  
-  → **Foco:** Game Design • Level Building  
+**Programação de Jogos Digitais**  
+`📆 2020–2022` | `🏫 ETE Cícero Dias`  
+→ **Stack:** Unity3D • C# • WebGL  
+→ **Foco:** Game Design • Level Building  
 
-- **Análise e Desenvolvimento de Sistemas**  
-  `📆 2023–2025` | `🏛️ Uninassau`  
-  → **Stack:** Front-End Moderno • DevOps Básico  
-  → **Foco:** Arquitetura de Software • UX  
+**Análise e Desenvolvimento de Sistemas**  
+`📆 2023–2025` | `🏛️ Uninassau`  
+→ **Stack:** Front-End Moderno • DevOps Básico  
+→ **Foco:** Arquitetura de Software • UX  
 
 ---
 
-### 🎮 **Vida Além do Código**
+### 🎮 Vida Além do Código
 
-<div align="center">
-
-[![Cubos Mágicos](https://img.shields.io/badge/-🧩_Speedcuber_WCA-6e5494?style=for-the-badge&logoColor=white)](# "Domino todos os puzzles da WCA (3x3 ao Megaminx)")  
-[![Piano](https://img.shields.io/badge/-🎹_Pianista_Autodidata-00b4ab?style=for-the-badge)](# "Desde 2022, explorando música nas horas vagas")  
-[![Praia](https://img.shields.io/badge/-🏖️_Praia-ffac45?style=for-the-badge)](# "Momentos de lazer e inspiração")
+<div align="center" style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
+  
+  [![Cubos Mágicos](https://img.shields.io/badge/-🧩_Speedcuber_WCA-6e5494?style=for-the-badge&logoColor=white)](# "Domino todos os puzzles da WCA (3x3 ao Megaminx)")
+  [![Piano](https://img.shields.io/badge/-🎹_Pianista_Autodidata-00b4ab?style=for-the-badge)](# "Desde 2022, explorando música nas horas vagas")
+  [![Praia](https://img.shields.io/badge/-🏖️_Praia-ffac45?style=for-the-badge)](# "Momentos de lazer e inspiração")
 
 </div>
 
