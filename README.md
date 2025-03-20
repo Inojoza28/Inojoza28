@@ -4,7 +4,7 @@
 <div align="center">
   <!-- Animação de texto digitado (Typing SVG) -->
   <img 
-       src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&pause=1000&color=b0bac0&center=true&vCenter=true&width=500&height=60&lines=🌟+Bem-vindo(a)+ao+meu+GitHub!; 🚀+Desenvolvedor+Front+End;💡+Entusiasta+de+Tecnologia; +Sempre+aprendendo+coisas+novas!" 
+       src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&pause=1000&color=b0bac0&center=true&vCenter=true&width=500&height=60&lines=🌟+Bem-vindo(a)+ao+meu+GitHub!; 🚀+Desenvolvedor+Front+End;💡+Entusiasta+de+Tecnologia; 🚀+Sempre+aprendendo+coisas+novas!" 
        alt="Typing animation"
   />
 </div>
