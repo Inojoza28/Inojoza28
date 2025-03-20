@@ -20,12 +20,12 @@
 
 ### 🎓 Formação Técnica
 - **Técnico em Programação de Jogos Digitais**  
-  *ETEC (2020–2022)*  
-  C# | Unity | Design de Narrativa
+  *ETE - Cícero Dias (2020–2022)*  
+  C# | Unity | Desenvolvimento Web
 
+### 🎓 Formação Acadêmica
 - **Tecnólogo em Análise e Desenvolvimento de Sistemas**  
-  *FATEC (Previsão de Conclusão: 2024)*  
-  React | Arquitetura REST | Testes Automatizados
+  *Uninassau - (2023-2025)*  
 
 ---
 
