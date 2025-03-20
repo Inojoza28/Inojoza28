@@ -13,7 +13,6 @@
 
 ## 🧑💻 **Sobre Mim** 
 
----
 
 ### 📚 **Formações**
 
@@ -49,7 +48,7 @@
   ">
     <img src="https://img.icons8.com/3d-fluency/48/rubiks-cube.png" width="40" style="margin-bottom: 0.5rem;">
     <strong>Speedcubing Profissional</strong><br>
-    <sub style="color: #555;">Certificado WCA | 3x3 ao Megaminx</sub>
+    <sub style="color: #555;">3x3 ao Megaminx</sub>
   </div>
 
   <div style="
@@ -62,7 +61,7 @@
   ">
     <img src="https://img.icons8.com/ios/50/music-transcript.png" width="40" style="margin-bottom: 0.5rem;">
     <strong>Prática Musical</strong><br>
-    <sub style="color: #555;">Piano Clássico | Teoria Musical</sub>
+    <sub style="color: #555;">Explorando música nas horas vagas</sub>
   </div>
 
   <div style="
@@ -75,7 +74,7 @@
   ">
     <img src="https://img.icons8.com/ios/50/beach.png" width="40" style="margin-bottom: 0.5rem;">
     <strong>Equilíbrio Criativo</strong><br>
-    <sub style="color: #555;">Surf & Mindfulness à Beira-Mar</sub>
+    <sub style="color: #555;">Momentos de lazer e inspiração</sub>
   </div>
 
 </div>
