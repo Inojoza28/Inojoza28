@@ -11,30 +11,44 @@
 
 ---
 
-## 🧑💻 **Sobre Mim**  
+## 🧑💻 Sobre Mim
+
 <div align="center">
-  <img src="https://i.imgur.com/KePmQ0k.png" width="300" alt="Code Illustration" style="border: 2px solid #e0e0e0; border-radius: 10px;">
-</div>  
+  <!-- Imagem minimalista atualizada (substitua o link se desejar outra imagem) -->
+  <img src="https://i.imgur.com/nX3XkGh.png" width="300" alt="Ilustração Minimalista" style="border: 2px solid #e0e0e0; border-radius: 10px;">
+</div>
 
-### **🎓 Formação Técnica**  
-▸ **Técnico em Programação de Jogos Digitais**  
-→ *ETEC (2020-2022)*  
-→ C# | Unity | Design de Narrativa  
+### 🎓 Formação Técnica
+- **Técnico em Programação de Jogos Digitais**  
+  *ETEC (2020–2022)*  
+  C# | Unity | Design de Narrativa
 
-▸ **Tecnólogo em Análise e Desenvolvimento de Sistemas**  
-→ *FATEC (Previsão de Conclusão: 2024)*  
-→ React | Arquitetura REST | Testes Automatizados  
+- **Tecnólogo em Análise e Desenvolvimento de Sistemas**  
+  *FATEC (Previsão de Conclusão: 2024)*  
+  React | Arquitetura REST | Testes Automatizados
 
 ---
 
-### **🌟 Vida Além do Código**  
+### 🌟 Vida Além do Código
 <div align="center">
-
-| 🧩 **Speedcuber Profissional** | 🎹 **Pianista Clássico** | ⌨️ **Coder por Paixão** |
-|-------------------------------|--------------------------|-------------------------|
-| Resolução de *todos os cubos WCA* (3x3 ao Megaminx) | 8 anos de estudos + repertório erudito | Contribuições em 15+ projetos open-source |
-
+  <table>
+    <tr>
+      <td align="center">
+        🧩 <strong>Speedcuber</strong><br>
+        Resolução de todos os cubos WCA (3x3 ao Megaminx)
+      </td>
+      <td align="center">
+        🎹 <strong>Piano</strong><br>
+        Tocando e explorando desde 2022
+      </td>
+      <td align="center">
+        ⌨️ <strong>Coder por Paixão</strong><br>
+        Projetos pessoais que facilitam o dia a dia
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 ## 🛠 **Tecnologias & Ferramentas**
 
