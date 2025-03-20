@@ -12,20 +12,23 @@
 ---
 
 ## 🧑💻 **Sobre Mim**  
-<div align="center">  
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="280" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15)">  
+<div align="center">
+  <img src="https://i.imgur.com/2Xr9Nvw.gif" width="300" style="border: 3px solid #f0f0f0; border-radius: 12px;">  
 </div>  
 
-### **Trajetória**  
-💻 **Front-End Specialist**  
-→ React.js | TypeScript | Web Performance  
-📚 **Formação Técnica + ADS** (Cursando)  
-✨ **Foco Atual:** Design Systems & Acessibilidade  
+### **Formação Acadêmica**  
+🎓 **Técnico em Programação de Jogos Digitais**  
+→ *ETEC: Centro Paula Souza (2020-2022)*  
+→ Foco: Unity, C#, Design de Gameplay  
+
+🎓 **Tecnólogo em Análise e Desenvolvimento de Sistemas**  
+→ *FATEC: conclusão em 2024*  
+→ Disciplinas-chave: Arquitetura de Software, DevOps, UX  
 
 ### **Vida Além do Código**  
-🎧 **Música:** Do clássico ao rock – sempre com violão  
-👾 **Retrogaming:** Coleciono cartuchos de SNES  
-🧠 **Mindset:** "Código é arte, e arte deve ser compartilhada"  
+🧩 **Cubo Mágico:** Resolvo todos os puzzles da classificação WCA (3x3 ao 7x7)  
+🎹 **Piano Clássico:** 8 anos de estudos (Bach a Ludovico Einaudi)  
+⚡ **Codar é Hobby:** Contribuo para projetos open-source nas horas vagas  
 
 ---
 
