@@ -75,12 +75,6 @@
 
 ---
 
-<div align="center">
-  
-![Snake animation](https://github.com/Inojoza28/Inojoza28/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-
 ---
 
 <div align="center">
@@ -93,4 +87,3 @@
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="60">
   
 </div>
-```
