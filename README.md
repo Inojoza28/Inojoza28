@@ -13,18 +13,28 @@
 
 ## 🧑💻 **Sobre Mim**  
 <div align="center">
-  <img src="https://i.imgur.com/3QJjwR5.png" width="280">
+  <img src="https://i.imgur.com/KePmQ0k.png" width="300" alt="Code Illustration" style="border: 2px solid #e0e0e0; border-radius: 10px;">
 </div>  
 
-**🎓 Formação**  
-Téc. Jogos Digitais (ETEC) | ADS (FATEC ’24)  
+### **🎓 Formação Técnica**  
+▸ **Técnico em Programação de Jogos Digitais**  
+→ *ETEC (2020-2022)*  
+→ C# | Unity | Design de Narrativa  
 
-### **Vida Além do Código**  
-🧩 **Cubo Mágico:** Resolvo todos os puzzles da classificação WCA (3x3 ao 7x7)  
-🎹 **Piano Clássico:** 8 anos de estudos (Bach a Ludovico Einaudi)  
-⚡ **Codar é Hobby:** Contribuo para projetos open-source nas horas vagas  
+▸ **Tecnólogo em Análise e Desenvolvimento de Sistemas**  
+→ *FATEC (Previsão de Conclusão: 2024)*  
+→ React | Arquitetura REST | Testes Automatizados  
 
 ---
+
+### **🌟 Vida Além do Código**  
+<div align="center">
+
+| 🧩 **Speedcuber Profissional** | 🎹 **Pianista Clássico** | ⌨️ **Coder por Paixão** |
+|-------------------------------|--------------------------|-------------------------|
+| Resolução de *todos os cubos WCA* (3x3 ao Megaminx) | 8 anos de estudos + repertório erudito | Contribuições em 15+ projetos open-source |
+
+</div>
 
 ## 🛠 **Tecnologias & Ferramentas**
 
