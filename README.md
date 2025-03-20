@@ -13,7 +13,7 @@
 
 ## 👨🏽‍💻 **Sobre Mim**
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250">
+<!--<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250">-->
 
 - **🎓 Formação Técnica:** Técnico em Programação de Jogos Digitais.
 - **🎓 Formação Graduanda:** Graduando em Análise e Desenvolvimento de Sistemas.
