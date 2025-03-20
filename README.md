@@ -98,25 +98,6 @@ Aqui estão algumas das linguagens, ferramentas e tecnologias que uso ou com as 
 
 ---
 
-## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"> Como Usar Este Modelo
-
-1. **Faça um fork ou copie o texto** para o seu repositório de perfil ou README do projeto.
-2. **Substitua** todos os campos que estiverem em maiúsculo (SEU_USUARIO, SEU_NOME, SEU_EMAIL, etc.) pelas suas informações.
-3. **Personalize** cores, temas, GIFs, badges, estatísticas e o que mais desejar.
-4. **Pronto!** Seu README estará mais animado e completo para quem visitar seu GitHub.
-
----
-
-## Dicas de Personalização
-
-- **Mantenha o foco no que você faz de melhor**: Destaque seus principais projetos, tecnologias e metas.  
-- **Use GIFs e animações com moderação**: Deixe o README leve e elegante.  
-- **Atualize com frequência**: Mantenha as seções “Sobre Mim” e “Estatísticas” sempre atualizadas para refletir seu status atual.  
-- **Inclua exemplos de projetos ou links**: Se você tiver projetos interessantes, adicione capturas de tela ou links de demonstração.  
-- **Deixe seu README com sua cara**: Abuse da criatividade – esse é seu espaço de apresentação!
-
----
-
 <div align="center">
 
 ### Obrigado pela visita e sinta-se à vontade para explorar meus repositórios!  
