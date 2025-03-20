@@ -11,50 +11,42 @@
 
 ---
 
-## 🧑💻 Sobre Mim
+## 🧑💻 **Sobre Mim**
 
 <div align="center">
-  <!-- Nova imagem minimalista (se preferir, substitua o link por outro) -->
-  <img 
-       src="https://i.imgur.com/H7X7nCP.png" 
-       width="300" 
-       alt="Ilustração Minimalista"
-       style="border: 2px solid #ddd; border-radius: 10px; margin-bottom: 15px;"
-  >
+  <img src="https://i.imgur.com/nX3XkGh.png" width="280" style="border-radius:12px;box-shadow:0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
-### 🎓 Formação Técnica
-- **Técnico em Programação de Jogos Digitais**  
-  *ETE - Cícero Dias (2020–2022)*  
-  **Foco**: C# | Unity | Desenvolvimento Web
+<div align="center">
 
-### 🎓 Formação Acadêmica
-- **Tecnólogo em Análise e Desenvolvimento de Sistemas**  
-  *Uninassau (2023–2025)*
+```diff
++🎓 FORMAÇÃO TÉCNICA & ACADÊMICA
+```
+  
+![]() <!-- Espaçamento -->
+  
+▎ **Programação de Jogos Digitais**  
+`📆 2020-2022` | `🏫 ETE Cícero Dias`  
+→ **Stack:** Unity3D • C# • WebGL  
+→ **Foco:** Game Design • Level Building  
+
+▎ **Análise e Desenvolvimento de Sistemas**  
+`📆 2023-2025` | `🏛️ Uninassau`  
+→ **Stack:** Front-End Moderno • DevOps Basics  
+→ **Foco:** Arquitetura de Software • UX  
+
+</div>
 
 ---
 
-### 🌟 Vida Além do Código
-<div align="center">
-  <table style="border: 0; border-collapse: collapse;">
-    <tr>
-      <td align="center" style="padding: 10px;">
-        🧩 <strong>Speedcuber</strong><br>
-        Resolução de todos os cubos WCA<br>
-        (3x3 ao Megaminx)
-      </td>
-      <td align="center" style="padding: 10px;">
-        🎹 <strong>Piano</strong><br>
-        Tocando e explorando desde 2022
-      </td>
-      <td align="center" style="padding: 10px;">
-        ⌨️ <strong>Coder por Paixão</strong><br>
-        Projetos pessoais que facilitam o dia a dia
-      </td>
-    </tr>
-  </table>
-</div>
+### 🎮 **Vida Além do Código**
+<div align="center" style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
 
+[![Cubos Mágicos](https://img.shields.io/badge/-🧩_Speedcuber_WCA-6e5494?style=for-the-badge&logoColor=white)]( "Domino todos os puzzles da WCA")
+[![Piano](https://img.shields.io/badge/-🎹_Pianista_Autodidata-00b4ab?style=for-the-badge)]( "Desde 2022")
+[![Projetos](https://img.shields.io/badge/-⌨️_Coder_Criativo-ffac45?style=for-the-badge)]( "Projetos que automatizam minha vida")
+
+</div>
 ---
 
 ## 🛠 **Tecnologias & Ferramentas**
