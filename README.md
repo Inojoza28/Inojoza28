@@ -39,6 +39,8 @@
 
 </div>
 
+---
+
 ## 🛠 **Tecnologias & Ferramentas**
 
 ### **Front-End Principal**
