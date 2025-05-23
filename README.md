@@ -24,7 +24,7 @@
 
 ## 🎤 **Palestras & Apresentações**
 
-### **"Hackeie Sua Mente"**
+### **"Hackeie Sua Mente - Os códigos mentais por trás de grandes projetos!"**
 Palestra focada em revelar os códigos invisíveis por trás de grandes projetos, explorando ideias para criar projetos que impactem positivamente as pessoas ao redor.
 
 **Locais apresentados:**
