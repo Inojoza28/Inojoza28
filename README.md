@@ -1,4 +1,3 @@
-
 # <div align="center"> Olá, eu sou Gabriel Inojoza <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></div>
 
 <div align="center">
@@ -21,6 +20,21 @@
 - **🎮 Além do Código:** Pianista autodidata, speedcuber e prainha no tempo livre.
 - **🚀 Objetivos:** Aperfeiçoar continuamente minhas habilidades e compartilhar conhecimento com a comunidade.
 
+---
+
+## 🎤 **Palestras & Apresentações**
+
+### **"Hackeie Sua Mente"**
+Palestra focada em revelar os códigos invisíveis por trás de grandes projetos, explorando ideias para criar projetos que impactem positivamente as pessoas ao redor.
+
+**Locais apresentados:**
+- 📍 **Uninassau Boa Viagem** - Apresentação sobre desenvolvimento criativo e impacto social através da tecnologia
+- 📍 **Uninassau das Graças (Bloco C)** - Compartilhamento de insights sobre inovação e pensamento estratégico em projetos
+
+**Temas abordados:**
+- 💡 Identificação de oportunidades de impacto social
+- 🔍 Análise de códigos e estruturas por trás de projetos bem-sucedidos
+- 🚀 Metodologias para transformar ideias em soluções práticas
 
 ---
 
